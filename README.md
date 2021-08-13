@@ -22,3 +22,7 @@ This is run locally, no need to have a Sonarqube server somewhere.
 4. Go to the URL given at the end of your analysis (or directly to http://localhost:9000/dashboard?id=quick-run-project)
 5. ???
 6. Profit
+
+![image](https://user-images.githubusercontent.com/25685118/129384781-48a5d151-05e2-4a98-bd5c-3a83a3c6dd9e.png)
+![image](https://user-images.githubusercontent.com/25685118/129384845-f89f23b4-dfa1-4788-92f9-9454b237c1e4.png)
+
